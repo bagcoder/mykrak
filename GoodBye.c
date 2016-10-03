@@ -3,5 +3,5 @@
 // 
 public GoodBye
 {
-
+  cout << "Have a good night" << endl;
 }
